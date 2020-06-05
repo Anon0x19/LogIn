@@ -7,5 +7,3 @@ To run it:
 - You will then have to open the .xcworkspace application.
 - Setup the FirebaseAuth, start by downloading you GoogleService-Info.plist and move it into the folder.
 - Run it through your phone or via the iPhone 11 Simulator.
-
-## Made by Anon0x19
